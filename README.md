@@ -39,7 +39,8 @@ O notebook principal (`Trabalho_Data_Science.ipynb`) documenta toda a metodologi
   └── plot_13_feature_importance_lr.png 
 ├── merged_healthcare_data.csv 
 ├── Projeto - Data Science - Luis Talgatti.pdf (Relatório Teórico) 
-├── Trabalho_Data_Science.ipynb (Notebook Principal) 
+├── Trabalho_Data_Science.ipynb (Notebook Principal)
+├── Trabalho_Data_Science.pdf (Notebook em PDF) 
 └── README.md (Este arquivo)
 ```
 ---
