@@ -1,0 +1,4 @@
+hospital_id,hospital_name,hospital_region,total_beds,avg_staffing_ratio
+HOSP-A,General Hospital,North,210,4.8
+HOSP-B,City Medical Center,South,350,5.1
+HOSP-C,Suburban Community,East,180,4.5
